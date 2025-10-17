@@ -5,17 +5,6 @@ I'm an <b>AI Engineer.</b> Originally from Brazil, I’m a native Portuguese spe
 </section>
 
 <section>
-<h2>🔧 What I Do</h2>
-<ul>
-<li>Build APIs with <b>FastAPI</b> for seamless integrations</li>
-<li>Design and manage databases with <b>SQLAlchemy</b> and <b>Alembic</b></li>
-<li>Write clean, testable code with <b>Pytest</b></li>
-<li>Automate workflows using <sb>n8n</b> to boost efficiency</li>
-<li>Leverage <b>OpenAI</b> for intelligent, AI-powered solutions</li>
-</ul>
-</section>
-
-<section>
 <h2>🌱 What I'm Exploring</h2>
 <ul>
 <li>Deepening my expertise in AI and machine learning</li>
